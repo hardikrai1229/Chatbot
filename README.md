@@ -4,3 +4,4 @@ Familiarize yourself with the Ollama library documentation and any relevant reso
 install ollama 
 install ollama gemma:2b model
 install chainlit, a Python package designed for building conversational AI applications.
+![Screenshot 2024-05-23 225847](https://github.com/hardikrai1229/Chatbot/assets/135652014/71cbd71e-0cbb-49ff-98d9-c4b07c65c768)
